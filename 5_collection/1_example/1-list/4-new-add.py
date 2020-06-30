@@ -1,0 +1,1 @@
+l =[]n = int(input("Enter the number?"))for i in range(0,n):	l.append(input("Enter the item?"))	print("printing the list number....")		for i in l:		print(i, end  = " ")

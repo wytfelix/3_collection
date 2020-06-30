@@ -1,0 +1,1 @@
+Employee = {"Name": "Jhon", "Age":29, "salary":25000, "Company":"Google"}print(Tupe(Employee))print("printing Employee data")print(Employee)
